@@ -9,15 +9,6 @@
     "currentProgress": "In Progress"
   },
   {
-    "taskID": "69dc600a-3485-4697-8203-d76eb17b4961",
-    "name": "bruh 2",
-    "assignee": "tim",
-    "description": "",
-    "priority": "-",
-    "length": "-",
-    "currentProgress": "To Do"
-  },
-  {
     "taskID": "c54ddb48-dad3-4f48-865f-2a9f825ec2dc",
     "name": "real time task?",
     "assignee": "",
@@ -97,5 +88,14 @@
     "priority": "-",
     "length": "-",
     "currentProgress": "Done"
+  },
+  {
+    "taskID": "69dc600a-3485-4697-8203-d76eb17b4961",
+    "name": "bruh 2",
+    "assignee": "tim",
+    "description": "",
+    "priority": "-",
+    "length": "-",
+    "currentProgress": "In Progress"
   }
 ]
