@@ -88,5 +88,14 @@
     "priority": "-",
     "length": "-",
     "currentProgress": "To Do"
+  },
+  {
+    "taskID": "d8ec9ca1-dec4-4c1f-be1b-3675108f8503",
+    "name": "hey kool kidz",
+    "assignee": "jaden",
+    "description": "",
+    "priority": "-",
+    "length": "-",
+    "currentProgress": "Done"
   }
 ]
