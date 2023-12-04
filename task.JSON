@@ -1,1 +1,20 @@
-[{"taskID":"c45138da-bb86-4c9e-8ea8-a35d7578b61d","name":"bruh","assignee":"bruh","description":"This is a description","priority":"3","length":"6","currentProgress":"In Progress"}]
+[
+  {
+    "taskID": "c45138da-bb86-4c9e-8ea8-a35d7578b61d",
+    "name": "bruh",
+    "assignee": "bruh",
+    "description": "This is a description",
+    "priority": "3",
+    "length": "6",
+    "currentProgress": "In Progress"
+  },
+  {
+    "taskID": "4d5a0c48-034c-4349-b44c-fdd479ff0938",
+    "name": "pls work",
+    "assignee": "",
+    "description": "",
+    "priority": "-",
+    "length": "-",
+    "currentProgress": "To Do"
+  }
+]
