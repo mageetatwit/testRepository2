@@ -18,15 +18,6 @@
     "currentProgress": "In Progress"
   },
   {
-    "taskID": "9ae50c84-300c-4048-8436-7797f1fe3195",
-    "name": "HELLO ",
-    "assignee": "yogi",
-    "description": "",
-    "priority": "-",
-    "length": "-",
-    "currentProgress": "In Progress"
-  },
-  {
     "taskID": "69dc600a-3485-4697-8203-d76eb17b4961",
     "name": "bruh 2",
     "assignee": "tim",
@@ -61,5 +52,14 @@
     "priority": "-",
     "length": "-",
     "currentProgress": "To Do"
+  },
+  {
+    "taskID": "9ae50c84-300c-4048-8436-7797f1fe3195",
+    "name": "HELLO ",
+    "assignee": "yogi",
+    "description": "",
+    "priority": "-",
+    "length": "-",
+    "currentProgress": "Done"
   }
 ]
