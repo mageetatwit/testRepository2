@@ -49,15 +49,6 @@
     "sprint": 0
   },
   {
-    "taskID": "29f39a47-1586-46eb-9f24-275643109050",
-    "name": "meow",
-    "assignee": "JadenWIT",
-    "description": "",
-    "priority": "-",
-    "currentProgress": "Done",
-    "sprint": 1
-  },
-  {
     "taskID": "357669ea-20cf-49dc-8474-a33c45d5cdd4",
     "name": "iofgh",
     "assignee": "mcgourthynatwit",
@@ -84,6 +75,15 @@
     "priority": "3",
     "length": "7",
     "currentProgress": "To Do",
+    "sprint": 1
+  },
+  {
+    "taskID": "29f39a47-1586-46eb-9f24-275643109050",
+    "name": "meow",
+    "assignee": "JadenWIT",
+    "description": "",
+    "priority": "1",
+    "currentProgress": "Done",
     "sprint": 1
   }
 ]
