@@ -29,15 +29,6 @@
     "sprint": 1
   },
   {
-    "taskID": "c6ad16f0-e09c-44ef-9efb-d2402deaf681",
-    "name": "This is a test for Assign Nick to a task ",
-    "assignee": "JadenWIT",
-    "description": "",
-    "priority": "-",
-    "currentProgress": "Done",
-    "sprint": 1
-  },
-  {
     "taskID": "9ba1432c-a548-495e-ba61-4a44cbe8feef",
     "name": "wnofwnfjepofniowenfowpienf nf o wenofnewfwefnpo iwn fnwoe infi fwefwefwf",
     "assignee": "mageetatwit",
@@ -81,6 +72,15 @@
     "description": "",
     "priority": "-",
     "currentProgress": "To Do",
+    "sprint": 1
+  },
+  {
+    "taskID": "c6ad16f0-e09c-44ef-9efb-d2402deaf681",
+    "name": "This is a test for Assign Nick to a task ",
+    "assignee": "mcgourthynatwit",
+    "description": "",
+    "priority": "-",
+    "currentProgress": "Done",
     "sprint": 1
   }
 ]
