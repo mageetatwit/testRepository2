@@ -114,22 +114,22 @@
     "sprint": 1
   },
   {
-    "taskID": "a4dce069-93f1-48eb-96ff-1863ab96cfa1",
-    "name": "test el",
-    "assignee": "",
-    "description": "el",
-    "priority": "-",
-    "length": "-",
-    "currentProgress": "To Do",
-    "sprint": 1
-  },
-  {
     "taskID": "c9bbea96-6222-4b9f-8b40-6c992aeee79c",
     "name": "Assigning this Task to Yogi",
     "assignee": "pately5atwit",
     "description": "",
     "priority": "3",
     "length": "1.5",
+    "currentProgress": "Done",
+    "sprint": 1
+  },
+  {
+    "taskID": "a4dce069-93f1-48eb-96ff-1863ab96cfa1",
+    "name": "test el",
+    "assignee": "",
+    "description": "el",
+    "priority": "-",
+    "length": "-",
     "currentProgress": "Done",
     "sprint": 1
   }
