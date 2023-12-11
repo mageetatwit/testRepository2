@@ -20,16 +20,6 @@
     "sprint": 2
   },
   {
-    "taskID": "9ba1432c-a548-495e-ba61-4a44cbe8feef",
-    "name": "wnofwnfjepofniowenfowpienf nf o wenofnewfwefnpo iwn fnwoe infi fwefwefwf",
-    "assignee": "mageetatwit",
-    "description": "gegergg",
-    "priority": "2",
-    "length": "6",
-    "currentProgress": "In Progress",
-    "sprint": 0
-  },
-  {
     "taskID": "c39c5bcf-dfbb-4614-be5c-1b4918da63c9",
     "name": "Test Task #490234",
     "assignee": "mageetatwit",
@@ -131,6 +121,16 @@
     "priority": "-",
     "length": "-",
     "currentProgress": "To Do",
+    "sprint": 1
+  },
+  {
+    "taskID": "9ba1432c-a548-495e-ba61-4a44cbe8feef",
+    "name": "wnofwnfjepofniowenfowpienf nf o wenofnewfwefnpo iwn fnwoe infi fwefwefwf",
+    "assignee": "mageetatwit",
+    "description": "gegergg",
+    "priority": "2",
+    "length": "6",
+    "currentProgress": "In Progress",
     "sprint": 1
   }
 ]
