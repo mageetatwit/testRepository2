@@ -1,12 +1,1 @@
-[
-  {
-    "taskID": "139fd90b-0162-4ac7-bd31-d3ea2a6d2da9",
-    "name": "test task 2 ",
-    "assignee": "mcgourthynatwit",
-    "description": "shows a task assigned shows up in myTask",
-    "priority": "2",
-    "length": "4",
-    "currentProgress": "To Do",
-    "sprint": 0
-  }
-]
+[]
