@@ -1,12 +1,1 @@
-[
-  {
-    "taskID": "f904744a-4d8d-4ab4-a724-4994016ea035",
-    "name": "test task 2",
-    "assignee": "mcgourthynatwit",
-    "description": "desc goes here",
-    "priority": "2",
-    "length": "-",
-    "currentProgress": "To Do",
-    "sprint": 0
-  }
-]
+[]
