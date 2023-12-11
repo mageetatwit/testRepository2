@@ -49,16 +49,6 @@
     "sprint": 1
   },
   {
-    "taskID": "e2ec0610-d88b-4af1-9088-9aa8021b588a",
-    "name": "test encrypt",
-    "assignee": "",
-    "description": "",
-    "priority": "-",
-    "length": "-",
-    "currentProgress": "To Do",
-    "sprint": 0
-  },
-  {
     "taskID": "357669ea-20cf-49dc-8474-a33c45d5cdd4",
     "name": "iofgh",
     "assignee": "mcgourthynatwit",
@@ -131,6 +121,16 @@
     "priority": "3",
     "length": "1.5",
     "currentProgress": "Done",
+    "sprint": 1
+  },
+  {
+    "taskID": "e2ec0610-d88b-4af1-9088-9aa8021b588a",
+    "name": "test encrypt",
+    "assignee": "",
+    "description": "",
+    "priority": "-",
+    "length": "-",
+    "currentProgress": "To Do",
     "sprint": 1
   }
 ]
