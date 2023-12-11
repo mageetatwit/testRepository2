@@ -1,15 +1,5 @@
 [
   {
-    "taskID": "739634f0-2860-456b-8185-9593cde202f3",
-    "name": "Test task 1",
-    "assignee": "",
-    "description": "desc goes here",
-    "priority": "-",
-    "length": "-",
-    "currentProgress": "To Do",
-    "sprint": 2
-  },
-  {
     "taskID": "139fd90b-0162-4ac7-bd31-d3ea2a6d2da9",
     "name": "test task 2 ",
     "assignee": "mcgourthynatwit",
