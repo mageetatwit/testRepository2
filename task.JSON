@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "taskID": "8014007f-561e-4e18-8b20-a09db4b00610",
+    "name": "test task",
+    "assignee": "",
+    "description": "description goes here",
+    "priority": "-",
+    "length": "-",
+    "currentProgress": "To Do",
+    "sprint": 0
+  }
+]
