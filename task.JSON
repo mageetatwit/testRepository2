@@ -30,15 +30,6 @@
     "sprint": 0
   },
   {
-    "taskID": "63513555-994f-4d63-84ed-321f650f4e72",
-    "name": "fiownfoiwnefoin opiwnfoi wnfoewoifwef",
-    "assignee": "",
-    "description": "",
-    "priority": "-",
-    "currentProgress": "In Progress",
-    "sprint": 1
-  },
-  {
     "taskID": "5abcacd1-fcc2-4a02-aaac-6c50f1593b11",
     "name": "fwpofewf",
     "assignee": "mageetatwit",
@@ -80,6 +71,15 @@
     "assignee": "JadenWIT",
     "description": "",
     "priority": "1",
+    "currentProgress": "Done",
+    "sprint": 1
+  },
+  {
+    "taskID": "63513555-994f-4d63-84ed-321f650f4e72",
+    "name": "fiownfoiwnefoin opiwnfoi wnfoewoifwef",
+    "assignee": "",
+    "description": "",
+    "priority": "-",
     "currentProgress": "Done",
     "sprint": 1
   }
