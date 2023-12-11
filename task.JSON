@@ -49,15 +49,6 @@
     "sprint": 1
   },
   {
-    "taskID": "357669ea-20cf-49dc-8474-a33c45d5cdd4",
-    "name": "iofgh",
-    "assignee": "mcgourthynatwit",
-    "description": "",
-    "priority": "-",
-    "currentProgress": "To Do",
-    "sprint": 1
-  },
-  {
     "taskID": "c6ad16f0-e09c-44ef-9efb-d2402deaf681",
     "name": "This is a test for Assign Nick to a task ",
     "assignee": "mcgourthynatwit",
@@ -131,6 +122,15 @@
     "description": "",
     "priority": "3",
     "currentProgress": "Done",
+    "sprint": 1
+  },
+  {
+    "taskID": "357669ea-20cf-49dc-8474-a33c45d5cdd4",
+    "name": "iofgh",
+    "assignee": "mcgourthynatwit",
+    "description": "",
+    "priority": "-",
+    "currentProgress": "In Progress",
     "sprint": 1
   }
 ]
