@@ -13,7 +13,7 @@
     "taskID": "e49620cb-63cb-4d7a-ae80-3e3744f24bf4",
     "name": "test task 1",
     "assignee": "",
-    "description": "when a task is creating it goes to the backlog",
+    "description": "To move it to sprint and have it appear on current sprint page do this!",
     "priority": "-",
     "length": "-",
     "currentProgress": "To Do",
