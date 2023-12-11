@@ -10,16 +10,6 @@
     "sprint": 0
   },
   {
-    "taskID": "b9129303-d83b-400f-a64a-45a1a4ca2e60",
-    "name": "task created from jaden",
-    "assignee": "",
-    "description": "",
-    "priority": "-",
-    "length": "-",
-    "currentProgress": "To Do",
-    "sprint": 1
-  },
-  {
     "taskID": "8014007f-561e-4e18-8b20-a09db4b00610",
     "name": "test task",
     "assignee": "mcgourthynatwit",
@@ -27,6 +17,16 @@
     "priority": "2",
     "length": "6",
     "currentProgress": "To Do",
+    "sprint": 1
+  },
+  {
+    "taskID": "b9129303-d83b-400f-a64a-45a1a4ca2e60",
+    "name": "task created from jaden",
+    "assignee": "",
+    "description": "",
+    "priority": "-",
+    "length": "-",
+    "currentProgress": "In Progress",
     "sprint": 1
   }
 ]
