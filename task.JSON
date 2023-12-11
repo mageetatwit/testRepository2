@@ -96,16 +96,6 @@
     "sprint": 1
   },
   {
-    "taskID": "c9bbea96-6222-4b9f-8b40-6c992aeee79c",
-    "name": "Assigning this Task to Yogi",
-    "assignee": "pately5atwit",
-    "description": "",
-    "priority": "3",
-    "length": "1.5",
-    "currentProgress": "Done",
-    "sprint": 1
-  },
-  {
     "taskID": "63513555-994f-4d63-84ed-321f650f4e72",
     "name": "fiownfoiwnefoin opiwnfoi wnfoewoifwef",
     "assignee": "mageetatwit",
@@ -130,6 +120,16 @@
     "assignee": "pately5atwit",
     "description": "",
     "priority": "3",
+    "currentProgress": "To Do",
+    "sprint": 1
+  },
+  {
+    "taskID": "c9bbea96-6222-4b9f-8b40-6c992aeee79c",
+    "name": "Assigning this Task to Yogi",
+    "assignee": "pately5atwit",
+    "description": "",
+    "priority": "3",
+    "length": "1.5",
     "currentProgress": "To Do",
     "sprint": 1
   }
