@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "taskID": "0a16cd29-ccb3-4efa-9db0-0fa2cbb3228c",
+    "name": "Welcome to the demo !",
+    "assignee": "",
+    "description": "desc goes here ",
+    "priority": "-",
+    "length": "-",
+    "currentProgress": "To Do",
+    "sprint": 0
+  }
+]
