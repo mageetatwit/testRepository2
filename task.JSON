@@ -34,8 +34,8 @@
     "name": "Showing different rendering for priority and length",
     "assignee": "",
     "description": "Tasks can have different ui if these features are changed",
-    "priority": "3",
-    "length": "7",
+    "priority": "1",
+    "length": "9.5",
     "currentProgress": "To Do",
     "sprint": 0
   }
