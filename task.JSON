@@ -1,15 +1,5 @@
 [
   {
-    "taskID": "0a16cd29-ccb3-4efa-9db0-0fa2cbb3228c",
-    "name": "Welcome to the demo !",
-    "assignee": "",
-    "description": "desc goes here ",
-    "priority": "-",
-    "length": "-",
-    "currentProgress": "To Do",
-    "sprint": 1
-  },
-  {
     "taskID": "e49620cb-63cb-4d7a-ae80-3e3744f24bf4",
     "name": "test task 1",
     "assignee": "mcgourthynatwit",
