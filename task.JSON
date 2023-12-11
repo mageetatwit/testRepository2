@@ -68,16 +68,6 @@
     "sprint": 1
   },
   {
-    "taskID": "c9bbea96-6222-4b9f-8b40-6c992aeee79c",
-    "name": "Assigning this Task to Yogi",
-    "assignee": "pately5atwit",
-    "description": "",
-    "priority": "3",
-    "length": "1.5",
-    "currentProgress": "In Progress",
-    "sprint": 1
-  },
-  {
     "taskID": "e2ec0610-d88b-4af1-9088-9aa8021b588a",
     "name": "test encrypt",
     "assignee": "",
@@ -131,6 +121,16 @@
     "priority": "-",
     "length": "-",
     "currentProgress": "To Do",
+    "sprint": 1
+  },
+  {
+    "taskID": "c9bbea96-6222-4b9f-8b40-6c992aeee79c",
+    "name": "Assigning this Task to Yogi",
+    "assignee": "pately5atwit",
+    "description": "",
+    "priority": "3",
+    "length": "1.5",
+    "currentProgress": "Done",
     "sprint": 1
   }
 ]
