@@ -1,15 +1,5 @@
 [
   {
-    "taskID": "e49620cb-63cb-4d7a-ae80-3e3744f24bf4",
-    "name": "test task 1",
-    "assignee": "mcgourthynatwit",
-    "description": "To have something appear on my tasks simply change the assignee to the users GitHub username",
-    "priority": "-",
-    "length": "-",
-    "currentProgress": "To Do",
-    "sprint": 1
-  },
-  {
     "taskID": "10284460-5e4f-433c-9f41-1deebd1f6d26",
     "name": "Showing different rendering for priority and length",
     "assignee": "",
