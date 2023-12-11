@@ -87,16 +87,6 @@
     "sprint": 1
   },
   {
-    "taskID": "e2ec0610-d88b-4af1-9088-9aa8021b588a",
-    "name": "test encrypt",
-    "assignee": "",
-    "description": "",
-    "priority": "-",
-    "length": "-",
-    "currentProgress": "To Do",
-    "sprint": 0
-  },
-  {
     "taskID": "a4dce069-93f1-48eb-96ff-1863ab96cfa1",
     "name": "test el",
     "assignee": "mcgourthynatwit",
@@ -131,6 +121,16 @@
     "description": "fwefwefWFFA",
     "priority": "3",
     "currentProgress": "In Progress",
+    "sprint": 1
+  },
+  {
+    "taskID": "e2ec0610-d88b-4af1-9088-9aa8021b588a",
+    "name": "test encrypt",
+    "assignee": "",
+    "description": "",
+    "priority": "-",
+    "length": "-",
+    "currentProgress": "To Do",
     "sprint": 1
   }
 ]
