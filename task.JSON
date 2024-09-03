@@ -50,16 +50,6 @@
     "sprint": 0
   },
   {
-    "taskID": "8b9e8ec5-13e8-41ac-b472-f0f49bac21c2",
-    "name": "example 2",
-    "assignee": "pately5atwit",
-    "description": "",
-    "priority": "1",
-    "length": "4",
-    "currentProgress": "Done",
-    "sprint": 0
-  },
-  {
     "taskID": "b63642aa-0b31-416a-b0c5-24cadf1446e7",
     "name": "example 3",
     "assignee": "tmagee02",
@@ -88,5 +78,15 @@
     "length": "3",
     "currentProgress": "In Progress",
     "sprint": 0
+  },
+  {
+    "taskID": "8b9e8ec5-13e8-41ac-b472-f0f49bac21c2",
+    "name": "example 2",
+    "assignee": "pately5atwit",
+    "description": "",
+    "priority": "1",
+    "length": "4",
+    "currentProgress": "Done",
+    "sprint": 1
   }
 ]
